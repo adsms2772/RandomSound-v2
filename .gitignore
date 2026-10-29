@@ -1,0 +1,13 @@
+.venv/
+**/__pycache__/
+*.py[cod]
+*.wav
+*.mp3
+*.flac
+*.mid
+*.sf2
+randomsound_model/dataset/
+randomsound_model/processed_dataset/
+randomsound_model/training_datasets/
+randomsound_model/reference_audio/
+randomsound_model/demo_work/
